@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://skyhong2002.github.io
+[twitter]: https://twitter.com/skychopath
+[facebook]: https://www.facebook.com/skyhong2002
+[instagram]: https://www.instagram.com/skychopath
+[linkedin]: https://www.linkedin.com/in/skyhong2002
