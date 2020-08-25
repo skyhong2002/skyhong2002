@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://skyhong2002.github.io
-[twitter]: https://twitter.com/skychopath
+[twitter]: https://twitter.com/skyhong2002
 [facebook]: https://www.facebook.com/skyhong2002
 [instagram]: https://www.instagram.com/skychopath
 [linkedin]: https://www.linkedin.com/in/skyhong2002
