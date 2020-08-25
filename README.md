@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [website]: https://skyhong2002.github.io
 [twitter]: https://twitter.com/skychopath
 [facebook]: https://www.facebook.com/skyhong2002
-[instagram]: https://www.instagram.com/skychopath
+[instagram]: https://www.instagram.com/skyhong2002
 [linkedin]: https://www.linkedin.com/in/skyhong2002
