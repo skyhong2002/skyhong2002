@@ -1,19 +1,20 @@
 <h1 style="text-align:center">Sky Hong 洪軾凱</h1>
 
-<center>於21世紀初自天空降落，</center> <\n>
-<center>患有先天性反社會人格障礙精神病，</center> <\n>
-<center>自稱以尋找人生目標為藉口，</center> <\n>
-<center>實則奉命研究潛在命運石之門的真理。</center> <\n>
+於21世紀初自天空降落，
 
+患有先天性反社會人格障礙精神病，
 
-<center>專長撇開音樂和打code，</center> <\n>
-<center>簡單來說就是個獨流的毒瘤。</center> <\n>
+自稱以尋找人生目標為藉口，
+
+實則奉命研究潛在命運石之門的真理。
+
+專長撇開音樂和打code，
+
+簡單來說就是個獨流的毒瘤。
 
 - 🔭 I’m currently working on Machine Learning & College Applications...
 - 🌱 I’m currently learning Highschool textbooks...
-- 🤔 I’m looking for help with my GSAT performence...
-<!-- - 💬 Ask me about anything related to my  -->
-
+- 🤔 I’m looking for help with my GSAT performence...<!-- - 💬 Ask me about anything related to my  -->
 - 😄 Pronouns: Slashie XD
 - 📫 How to reach me: ...
 [<img align="center" alt="skyhong2002 | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
