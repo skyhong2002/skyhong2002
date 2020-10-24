@@ -1,13 +1,13 @@
-<center>### Sky Hong 洪軾凱</center>
+<center>### Sky Hong 洪軾凱</center> \n
 
-<center>於21世紀初自天空降落，</center>
-<center>患有先天性反社會人格障礙精神病，</center>
-<center>自稱以尋找人生目標為藉口，</center>
-<center>實則奉命研究潛在命運石之門的真理。</center>
+<center>於21世紀初自天空降落，</center> \n
+<center>患有先天性反社會人格障礙精神病，</center> \n
+<center>自稱以尋找人生目標為藉口，</center> \n
+<center>實則奉命研究潛在命運石之門的真理。</center> \n
 
 
-<center>專長撇開音樂和打code，</center>
-<center>簡單來說就是個獨流的毒瘤。</center>
+<center>專長撇開音樂和打code，</center> \n
+<center>簡單來說就是個獨流的毒瘤。</center> \n
 
 - 🔭 I’m currently working on Machine Learning & College Applications...
 - 🌱 I’m currently learning Highschool textbooks...
