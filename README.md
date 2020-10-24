@@ -1,4 +1,4 @@
-<center>### Sky Hong 洪軾凱</center> <\n>
+<h1 style="text-align:center">Sky Hong 洪軾凱</h1>
 
 <center>於21世紀初自天空降落，</center> <\n>
 <center>患有先天性反社會人格障礙精神病，</center> <\n>
