@@ -1,3 +1,5 @@
+<p align="center">
+
 ### Sky Hong 洪軾凱
 
 於21世紀初自天空降落，
@@ -39,3 +41,5 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/skyhong2002
 [instagram]: https://www.instagram.com/skychopath
 [linkedin]: https://www.linkedin.com/in/skyhong2002
+
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true" alt="skyhong2002" /> </p>
