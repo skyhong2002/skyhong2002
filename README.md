@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning Highschool textbooks...
 - 🤔 I’m looking for help with my GSAT performence...<!-- - 💬 Ask me about anything related to my  -->
 - 😄 Pronouns: Slashie XD
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+
 [<img align="center" alt="skyhong2002 | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="skyhong2002 | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="center" alt="skyhong2002 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
