@@ -29,4 +29,6 @@
 [instagram]: https://www.instagram.com/skychopath
 [linkedin]: https://www.linkedin.com/in/skyhong2002
 
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true" alt="skyhong2002" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true" alt="skyhong2002" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyhong2002&theme=graywhite" />
