@@ -1,6 +1,7 @@
 <h1 style="text-align:center">Sky Hong 洪軾凱</h1>
 
-```<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<!--
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -26,7 +27,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-```
+-->
 於21世紀初自天空降落，
 
 患有先天性反社會人格障礙精神病，
