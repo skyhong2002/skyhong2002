@@ -9,7 +9,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="https://raw.githubusercontent.com/skyhong2002/image-collection/master/wallpaper/1.048596.jepg" alt="First slide">
+      <img class="d-block w-100" src="https://raw.githubusercontent.com/skyhong2002/image-collection/master/wallpaper/3D2Y.png" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="https://raw.githubusercontent.com/skyhong2002/image-collection/master/wallpaper/fight.png" alt="Second slide">
