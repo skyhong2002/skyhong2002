@@ -12,4 +12,4 @@
 
 簡單來說就是個獨流的毒瘤。
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=skyhong2002&extension=activity)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=skyhong2002&extension=activity) -->
