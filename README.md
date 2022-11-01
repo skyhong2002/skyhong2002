@@ -13,22 +13,34 @@
 
 (translate: just some stupid words)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001473&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001483&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/23qd3lDD1bNPy35LbUuahz?si=379cd970281547f3)
 
 </div>
 
 
-## > whoami
+## `> whoami`
 
-- Undergraduates [@NTNU-CSIE](https://github.com/NTNU-CSIE) from Taiwan
-- Currently learning: 
+- Undergraduates [@NTNU-CSIE](https://github.com/NTNU-CSIE) from Taiwan, studying:
+    - Data Science
+    - Automatic Speech Recognition
+    - Backend in Software Engineering
+- besides my major, I also learn:
+    - Statistics
+    - Economics
+    - Music Theories
+    - Project Management
+- and having deep affection for: 
+    - JRPG/retro games
+    - Jazz & OST musics
+    - Dystopia & sci-fi works
 
-## > whereami
+## `> pwd`
 
-- You can reach me via email: anyway-you-want-and-just-the-way-you-need@skyhong.tw
+- You can reach me via email: harder-better-faster-stronger@skyhong.tw
 - Visit my [Discord server](https://discord.gg/9BbYCXaEVd) (Self introduction needed)
 - Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
-- Many other social media with handle: skyhong2002, skychopath, etc.
+- Many other social media with handle: skyhong2002, skyhong.tw, skychopath
+    - Facebook, Instagram, Twitter, Youtube, HackMD, etc.
 
 <div align="center">
 
