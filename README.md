@@ -13,6 +13,8 @@
 
 (translate: just some stupid words)
 
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=338152155619786753)](https://github.com/Zyplos/discord-readme-badge)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001483&bar_color=53b14f&bar_color_cover=false)](https://stats.fm/skyhong2002/)
 
 <!-- My fav playlist https://open.spotify.com/playlist/23qd3lDD1bNPy35LbUuahz?si=379cd970281547f3 -->
