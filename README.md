@@ -38,7 +38,7 @@
 
 ## `> pwd`
 
-- Reach me via email: harder-better-faster-stronger@skyhong.tw
+- Reach me via email: We-are-up-all-night-to-get-lucky@skyhong.tw
 - Visit my [Discord server](https://discord.gg/9BbYCXaEVd) (Self introduction needed)
 - Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
 - Many other social media with handle: skyhong2002, skyhong.tw, skychopath
