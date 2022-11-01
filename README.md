@@ -13,7 +13,7 @@
 
 (translate: just some stupid words)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=true&theme=default&show_offline=true&background_color=001473&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=true&background_color=001473&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&redirect=true)
 
 </div>
 
