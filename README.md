@@ -45,9 +45,7 @@
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true&locale=en)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/skyhong2002?theme=wtf&font=Ubuntu)
 ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhong2002&hide=html&langs_count=10&layout=compact)
-
+    
 </div>
-
-<!--![Sky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyhong2002)-->
