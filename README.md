@@ -20,9 +20,15 @@
 
 ## > whoami
 
-- Undergraduates [@NTNU-CSIE](https://github.com/NTNU-CSIE)
-- You can reach me via email: anyway-you-want-and-just-the-way-you-need@skyhong.tw
+- Undergraduates [@NTNU-CSIE](https://github.com/NTNU-CSIE) from Taiwan
+- Currently learning: 
 
+## > whereami
+
+- You can reach me via email: anyway-you-want-and-just-the-way-you-need@skyhong.tw
+- Visit my [Discord server](https://discord.gg/9BbYCXaEVd) (Self introduction needed)
+- Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
+- Many other social media with handle: skyhong2002, skychopath, etc.
 
 <div align="center">
 
