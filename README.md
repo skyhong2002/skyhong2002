@@ -20,7 +20,7 @@
 
 ## `> whoami`
 
-- Undergraduates [@NTNU-CSIE](https://github.com/NTNU-CSIE) from Taiwan, studying:
+- [@NTNU-CSIE](https://github.com/NTNU-CSIE) undergrads student from Taiwan, studying:
     - Data Science
     - Automatic Speech Recognition
     - Backend in Software Engineering
