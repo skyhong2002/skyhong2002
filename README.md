@@ -21,7 +21,7 @@
 ## `> whoami`
 
 - [@NTNU-CSIE](https://github.com/NTNU-CSIE) undergrads student from Taiwan, studying:
-    - Data Science
+    - Data Analysis
     - Automatic Speech Recognition
     - Backend in Software Engineering
 - besides my major, I also learn:
