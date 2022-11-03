@@ -26,7 +26,7 @@
 
 - [@NTNU-CSIE](https://github.com/NTNU-CSIE) undergrads student from Taiwan, studying:
     - Data Analysis
-    - Automatic Speech Recognition
+    - Information Retrieval
     - Backend in Software Engineering
 - besides my major, I also learn:
     - Statistics
