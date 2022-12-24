@@ -48,9 +48,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true&locale=en)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skyhong2002&fire=001484&ring=001484&currStreakLabel=001484)](https://git.io/streak-stats)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/skyhong2002?theme=light&font=Ubuntu)](https://leetcard.jacoblin.cool/)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true&locale=en) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skyhong2002&fire=001484&ring=001484&currStreakLabel=001484)](https://git.io/streak-stats) -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/skyhong2002?theme=nord&font=Urbanist&ext=activity)](https://leetcode.com/skyhong2002/)
 <!-- [![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?skyhong2002)](https://github.com/chienhsiang-hung/kaggle-profile-summary-card)
 ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhong2002&hide=html&langs_count=10&layout=compact) -->
     
