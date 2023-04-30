@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=skyhong2002&style=flat-square)
 
+![me](/photos/me.jpeg)
+
 於21世紀初自天空降落，  
 患有先天性反社會人格障礙精神病，  
 自稱以尋找人生目標為藉口，  

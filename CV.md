@@ -2,7 +2,7 @@
 
 me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://www.linkedin.com/in/skyhong2002/) / [Medium](https://medium.com/@skyhong2002)
 
-<!--![me](../photos/me.jpeg)-->
+<!--![me](/photos/me.jpeg)-->
 
 ## Work Experience
 
