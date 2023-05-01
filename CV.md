@@ -116,3 +116,12 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
 - Software Engineer Intern
 - Research Intern
 - Community Manager Intern
+
+---
+
+<div align="center">
+
+More about me:  
+| [ABOUT](https://github.com/skyhong2002/skyhong2002/blob/master/README.md) - [BIOGRAPHY](https://github.com/skyhong2002/skyhong2002/blob/master/BIOGRAPHY.md) - [CV](https://github.com/skyhong2002/skyhong2002/blob/master/CV.md) - [IDEOLOGY](https://github.com/skyhong2002/skyhong2002/blob/master/IDEOLOGY.md) - [INTERESTS](https://github.com/skyhong2002/skyhong2002/blob/master/INTERESTS.md) |
+
+</div>

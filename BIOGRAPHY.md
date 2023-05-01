@@ -1,4 +1,4 @@
-# Biography
+## Biography
 
 Sky Hong is a software developer and Computer Science undergrad at National Taiwan Normal University. He is currently working on [UniCourse](https://unicourse.tw), an open-source course search engine for college students in Taiwan, as co-founder and project manager and has been an active contributor of [g0v](https://g0v.tw) and [SITCON](https://sitcon.org) communities. 
 
@@ -9,3 +9,12 @@ He has very diverse interests. He enjoys immersing himself in various art forms,
 As a citizen, he is frequently concerned with the trends in Taiwanese media. He has also been an active member of the HSNU Student Council and NTNU Student Union, standing up for student rights. He also writes blogs and articles to share his thoughts and ideas.
 
 As a software developer and data scientist, he deeply advocates problem-solving techniques focusing on digital governance and social issues. He also has a strong interest in open-source software and open data, believing that open-source software and open data are the keys to a better world.
+
+---
+
+<div align="center">
+
+More about me:  
+| [ABOUT](https://github.com/skyhong2002/skyhong2002/blob/master/README.md) - [BIOGRAPHY](https://github.com/skyhong2002/skyhong2002/blob/master/BIOGRAPHY.md) - [CV](https://github.com/skyhong2002/skyhong2002/blob/master/CV.md) - [IDEOLOGY](https://github.com/skyhong2002/skyhong2002/blob/master/IDEOLOGY.md) - [INTERESTS](https://github.com/skyhong2002/skyhong2002/blob/master/INTERESTS.md) |
+
+</div>

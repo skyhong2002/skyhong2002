@@ -51,3 +51,12 @@ I love to play instruments, but I love more when I play instruments with others.
 
 - [從科展學寫程式 系列鐵人文](https://ithelp.ithome.com.tw/users/20103852/ironman/1232)
 - [深入高中程式設計能力指標 APCS 系列鐵人文](https://ithelp.ithome.com.tw/users/20103852/ironman/4665)
+
+---
+
+<div align="center">
+
+More about me:  
+| [ABOUT](https://github.com/skyhong2002/skyhong2002/blob/master/README.md) - [BIOGRAPHY](https://github.com/skyhong2002/skyhong2002/blob/master/BIOGRAPHY.md) - [CV](https://github.com/skyhong2002/skyhong2002/blob/master/CV.md) - [IDEOLOGY](https://github.com/skyhong2002/skyhong2002/blob/master/IDEOLOGY.md) - [INTERESTS](https://github.com/skyhong2002/skyhong2002/blob/master/INTERESTS.md) |
+
+</div>
