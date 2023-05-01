@@ -4,6 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=skyhong2002&style=flat-square)
 
+More about me:  
+| [BIOGRAPHY](https://github.com/skyhong2002/skyhong2002/blob/master/BIOGRAPHY.md) - [CV](https://github.com/skyhong2002/skyhong2002/blob/master/CV.md) - [IDEOLOGY](https://github.com/skyhong2002/skyhong2002/blob/master/IDEOLOGY.md) - [INTERESTS](https://github.com/skyhong2002/skyhong2002/blob/master/INTERESTS.md) |
+
 ![me](/photos/me.jpeg)
 
 於21世紀初自天空降落，  
