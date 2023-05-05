@@ -43,9 +43,9 @@ I love to play instruments, but I love more when I play instruments with others.
 
 ### Bloging
 
-- [Skychopatics](skyhong2002.blogspots.com)
+- [Skychopatics](https://skyhong2002.blogspots.com)
 - [Medium](https://medium.com/@skyhong2002)
-- [Skychopath.](blog.skyhong.tw)
+- [Skychopath.](https://blog.skyhong.tw)
 
 ### Publication
 
