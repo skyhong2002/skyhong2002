@@ -10,7 +10,7 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
   - 學習型兼任助理 Oct 2022 - Dec 2022
   - [民生公共物聯網資料應用教材編製與推廣](https://cclljj.notion.site/cclljj/37b6edcdcf9446969894486e1ffec550) 編輯團隊
 - 師大青年社 NTNU YOUTH 
-  - 特約網頁維護工程師 Jul 2022 - Jun 2023 (expected)
+  - 特約網頁維護工程師 Jul 2022 - Present
   - Wordpress 網站維護、主機更新等
 
 ## Side Projects & Open Source Contributions
@@ -39,11 +39,21 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
   - 開放學生自治組織白皮書 #edu-open-stu-association 
   - UniCourse 大學課程資訊交流平台 #edu-unicourse
 
+### [COSCUP 開源人年會](https://coscup.org)
+
+- COSCUP 2023
+  - 開源教育議程軌 協調人兼主持人
+
 ### Others
 
-- [COSCUP](https://coscup.org) 2023 開放教育議程軌 Co-host（預定）
-- [NTNU GDSC](https://gdsc.community.dev/national-taiwan-normal-university/) 2022-2023 Core Team Member
-- [NTNU Student Union](https://www.facebook.com/ntnustu/) Student Rights Center Researcher
+- [NTNU GDSC](https://gdsc.community.dev/national-taiwan-normal-university/) 
+  - 2022-2023 Core Team Member
+  - 2023-2024 Lead
+- [NTNU CSIE Student Association](https://www.facebook.com/ntnucsieclub)
+  - 2023-2024 President
+- [NTNU Student Union](https://www.facebook.com/ntnustu/) 
+  - 2021-2022 Student Rights Particpant
+  - 2022-2023 Student Rights Center Researcher
 
 <!--
 
@@ -101,6 +111,10 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
   - [讓我們把高中的開發力聚集在一起吧！](https://sitcon.org/2020/agenda/37d660db-fe73-4167-b47d-79ae292ae6c3)  
 - 師大暖日永續節 2023 論壇主持人
   - [數位治理論壇：後疫情時代下學生自治的數位轉型趨勢](https://www.facebook.com/ntnusustainabilityfestival/posts/pfbid02rEmWzCRvCc1hPGqULPrZRxMmUaFH2duU6BzHhHTCZ2kFoYpqss82MbAw23vGfpPrl)
+- COSCUP 2023 開源教育議程軌 講者
+  - [看我們如何打造 Unicourse 大學課程資訊交流平臺](https://youtu.be/yUj0amVaYD8)
+- COSCUP 2023 學生社群大亂鬥議程軌 講者
+  - [學生自治之 DAO —— 開放學生自治組織白皮書](https://docs.google.com/presentation/d/1XWszBhPDrmSmx4Bp9lPUgzW6dABGxJIQuOusrzfJ6sI/edit?usp=sharing)
 
 ## Research Interests
 
