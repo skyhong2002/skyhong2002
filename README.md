@@ -20,7 +20,7 @@ More about me:
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=338152155619786753)](https://github.com/Zyplos/discord-readme-badge)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001483&bar_color=53b14f&bar_color_cover=false)](https://stats.fm/skyhong2002/)
+<!-- ![![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001483&bar_color=53b14f&bar_color_cover=false)](https://stats.fm/skyhong2002/) -->
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nq80zcv293n9jzmoref7rlp1a&unique={true|1|on|yes}) -->
 <!-- My fav playlist https://open.spotify.com/playlist/23qd3lDD1bNPy35LbUuahz?si=379cd970281547f3 -->
     
@@ -55,8 +55,8 @@ More about me:
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhong2002&show_icons=true&locale=en) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skyhong2002&fire=001484&ring=001484&currStreakLabel=001484)](https://git.io/streak-stats) -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/skyhong2002?theme=nord&font=Urbanist&ext=activity)](https://leetcode.com/skyhong2002/)
-<!-- [![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?skyhong2002)](https://github.com/chienhsiang-hung/kaggle-profile-summary-card)
-![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhong2002&hide=html&langs_count=10&layout=compact) -->
+<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/skyhong2002?theme=nord&font=Urbanist&ext=activity)](https://leetcode.com/skyhong2002/) -->
+<!-- [![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?skyhong2002)](https://github.com/chienhsiang-hung/kaggle-profile-summary-card) -->
+<!-- ![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhong2002&hide=html&langs_count=10&layout=compact) -->
     
 </div>
