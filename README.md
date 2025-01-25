@@ -46,7 +46,7 @@ More about me:
 ## `> pwd`
 
 - Reach me via email: we-are-up-all-night-to-get-lucky@skyhong.tw
-- Visit my [Discord server](https://discord.gg/CkpAbwzSBA) (Self-introduction needed)
+- Visit my [Discord server](https://discord.gg/ufJDpSE4wj) (Self-introduction needed)
 - Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
 - Many other social media with handles: skyhong2002, skyhong.tw, skychopath
     - Facebook, Instagram, Twitter, Youtube, HackMD, etc.
