@@ -9,15 +9,6 @@ More about me:
 
 ![me](/photos/me.jpeg)
 
-於21世紀初自天空降落，  
-患有先天性反社會人格障礙精神病，  
-自稱以尋找人生目標為藉口，  
-實則奉命研究潛在命運石之門的真理。  
-專長撇開音樂和打code，  
-簡單來說就是個獨流的毒瘤。
-
-(translate: just some stupid words)
-
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=338152155619786753)](https://github.com/Zyplos/discord-readme-badge)
 
 <!-- ![![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nq80zcv293n9jzmoref7rlp1a&cover_image=false&theme=default&show_offline=false&background_color=001483&bar_color=53b14f&bar_color_cover=false)](https://stats.fm/skyhong2002/) -->
@@ -45,6 +36,7 @@ More about me:
 
 ## `> pwd`
 
+- My personal blog: https://skyhong.tw
 - Reach me via email: we-are-up-all-night-to-get-lucky@skyhong.tw
 - Visit my [Discord server](https://discord.gg/ufJDpSE4wj) (Self-introduction needed)
 - Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
