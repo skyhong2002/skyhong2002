@@ -20,19 +20,19 @@ More about me:
 
 ## `> whoami`
 
-- [@NTNU-CSIE](https://github.com/NTNU-CSIE) undergrads student from Taiwan, studying:
+- [@NTNU-CSIE](https://github.com/NTNU-CSIE) undergraduate student from Taiwan, studying:
     - Data Analysis
     - Information Retrieval
     - Backend in Software Engineering
-- besides my major, I also learn the following:
+- Besides my major, I also learn the following:
     - Statistics
     - Economics
     - Music Theories
     - Project Management
-- and having a deep affection for: 
+- and have a deep affection for:
     - JRPG/retro games
-    - Jazz & OST musics
-    - Dystopia & sci-fi works
+    - Jazz & OST music
+    - Dystopian & sci-fi works
 
 ## `> pwd`
 
@@ -40,8 +40,8 @@ More about me:
 - Reach me via email: we-are-up-all-night-to-get-lucky@skyhong.tw
 - Visit my [Discord server](https://discord.gg/ufJDpSE4wj) (Self-introduction needed)
 - Occasionally write some stuff on [Medium](https://medium.com/@skyhong2002)
-- Many other social media with handles: skyhong2002, skyhong.tw, skychopath
-    - Facebook, Instagram, Twitter, Youtube, HackMD, etc.
+- I have many other social media accounts with the handles: skyhong2002, skyhong.tw, skychopath
+    - Facebook, Instagram, Twitter, YouTube, HackMD, etc.
 
 <div align="center">
 

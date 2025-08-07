@@ -10,11 +10,11 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
 
 ## Biography
 
-Sky Hong is a software developer and Computer Science undergrad at National Taiwan Normal University. He is currently working on [UniCourse](https://unicourse.tw), an open-source course search engine for college students in Taiwan, as co-founder and project manager and has been an active contributor of [g0v](https://g0v.tw) and [SITCON](https://sitcon.org) communities. 
+Sky Hong is a software developer and Computer Science undergrad at National Taiwan Normal University. He is currently working on [UniCourse](https://unicourse.tw), an open-source course search engine for college students in Taiwan, as co-founder and project manager and has been an active contributor to the [g0v](https://g0v.tw) and [SITCON](https://sitcon.org) communities.
 
-He was born in 2002 in Tainan, Taiwan, and moved to Taipei with his family. He found an interest early in math and computer science in elementary school. During high school, his early research interests include **Game Theory**, **Machine Learning**, and **Natural Language Processing**. Now he is more interested in **Online Learning**, **Information Retrieval**, and **Speech Recognition**. 
+He was born in 2002 in Tainan, Taiwan, and moved to Taipei with his family. He found an early interest in math and computer science in elementary school. During high school, his early research interests include **Game Theory**, **Machine Learning**, and **Natural Language Processing**. Now he is more interested in **Online Learning**, **Information Retrieval**, and **Speech Recognition**.
 
-He has very diverse interests. He enjoys immersing himself in various art forms, unrestricted by any particular style. He likes to play classical music with others and has played instruments in many bands and orchestras since elementary school. He plays Harmonica, Clarinet, Violin, and more and occasionally posts clips on various platforms.
+He has very diverse interests. He enjoys immersing himself in various art forms, unrestricted by any particular style. He likes to play classical music with others and has played instruments in many bands and orchestras since elementary school. He plays the harmonica, clarinet, violin, and more, and occasionally posts clips on various platforms.
 
 As a citizen, he is frequently concerned with the trends in Taiwanese media. He has also been an active member of the HSNU Student Council and NTNU Student Union, standing up for student rights. He also writes blogs and articles to share his thoughts and ideas.
 
@@ -32,13 +32,13 @@ As a software developer and data scientist, he deeply advocates problem-solving 
 ## Side Projects & Open Source Contributions
 
 - Co-founder and Project Manager of [UniCourse](https://github.com/UniCourse-TW)
-  - An open-sourced modern course platform for students. Currently serving as project manager for the project.
-- Traditonal Chinese Translator of [Logseq](https://github.com/logseq/logseq)
+  - An open-source modern course platform for students. Currently serving as project manager for the project.
+- Traditional Chinese Translator of [Logseq](https://github.com/logseq/logseq)
   - A privacy-first, open-source platform for knowledge management and collaboration.
 - Co-founder of [NTNUCSIE Universe](https://github.com/NTNU-CSIE) discord server
   - A discord server for NTNU CSIE students to communicate and share information.
 - [urtube](https://github.com/skyhong2002/urtube)
-  - A open-soursed project make your youtube watch history alive.
+  - An open-source project that brings your YouTube watch history to life.
 
 ## Volunteer Experience
 
@@ -68,7 +68,7 @@ As a software developer and data scientist, he deeply advocates problem-solving 
 - [NTNU CSIE Student Association](https://www.facebook.com/ntnucsieclub)
   - 2023-2024 President
 - [NTNU Student Union](https://www.facebook.com/ntnustu/) 
-  - 2021-2022 Student Rights Particpant
+  - 2021-2022 Student Rights Participant
   - 2022-2023 Student Rights Center Researcher
 
 <!--

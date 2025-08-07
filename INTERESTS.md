@@ -19,20 +19,20 @@ I have been doing this for a period of time, and I am still doing it. Here are s
 
 ### Immersing into classical music
 
-I love to play instruments, but I love more when I play instruments with others. I have played instruments since elementary school in many bands and orchestras. I play Harmonica, Clarinet, Violin, and more and I occasionally post clips on various platforms. Here are some of the bands, quintets, and orchestras I have played in:
+I love playing instruments, especially with others. I have played instruments in many bands and orchestras since elementary school. I play the harmonica, clarinet, violin, and more, and I occasionally post clips on various platforms. Here are some of the bands, quintets, and orchestras I have played in:
 
-- as Harmonica Player
+- as a Harmonica Player
   - [台大藍聲口琴社 NTU Blue Sound Harmonica Club](https://www.facebook.com/ntubluesound)
   - [師大附中舒馨口琴社](https://www.facebook.com/HSNUCOZY)
   - 多次參與 [臺灣口琴音樂節 Taiwan Harmonica Music Festival](https://www.facebook.com/twharmonica)
-- as Clarinetist
+- as a Clarinetist
   - [臺灣大學管樂團 NTUWB](https://www.facebook.com/ntuwbbest)
   - [師大附中管樂隊 NTNU Windband](https://www.facebook.com/hsnuwindband)
   - [欣響室內管樂團](https://www.facebook.com/ShinShiangWindEnsemble)
   - [台北青年管樂團](https://www.facebook.com/tsbgroup) 青少年團
   - [新聲管樂團](https://www.facebook.com/newsound.tw)
   - 多次參與 [魔笛音樂節](https://www.facebook.com/profile.php?id=100057355816166) 及 [黑種籽夏令營](https://www.facebook.com/HeySeed.Clarinet)
-- as Violinist
+- as a Violinist
   - [附中愛樂](https://www.facebook.com/amkhsnu)
   - [永和國中弦樂團](https://www.facebook.com/yhstringorchestra)
 
@@ -41,7 +41,7 @@ I love to play instruments, but I love more when I play instruments with others.
 - [HSC 附中學生會](https://www.facebook.com/HsnuStudentCouncil)
 - [臺師大學生會 NTNU SU](https://www.facebook.com/ntnustu/)
 
-### Bloging
+### Blogging
 
 - [Skychopatics](https://skyhong2002.blogspots.com)
 - [Medium](https://medium.com/@skyhong2002)

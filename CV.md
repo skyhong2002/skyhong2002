@@ -16,13 +16,13 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
 ## Side Projects & Open Source Contributions
 
 - Co-founder and Project Manager of [UniCourse](https://github.com/UniCourse-TW)
-  - An open-sourced modern course platform for students. Currently serving as project manager for the project.
-- Traditonal Chinese Translator of [Logseq](https://github.com/logseq/logseq)
+  - An open-source modern course platform for students. Currently serving as project manager for the project.
+- Traditional Chinese Translator of [Logseq](https://github.com/logseq/logseq)
   - A privacy-first, open-source platform for knowledge management and collaboration.
 - Co-founder of [NTNUCSIE Universe](https://github.com/NTNU-CSIE) discord server
   - A discord server for NTNU CSIE students to communicate and share information.
 - [urtube](https://github.com/skyhong2002/urtube)
-  - A open-soursed project make your youtube watch history alive.
+  - An open-source project that brings your YouTube watch history to life.
 
 ## Volunteer Experience
 
@@ -52,7 +52,7 @@ me@skyhong.tw / [GitHub](https://github.com/skyhong2002) / [LinkedIn](https://ww
 - [NTNU CSIE Student Association](https://www.facebook.com/ntnucsieclub)
   - 2023-2024 President
 - [NTNU Student Union](https://www.facebook.com/ntnustu/) 
-  - 2021-2022 Student Rights Particpant
+  - 2021-2022 Student Rights Participant
   - 2022-2023 Student Rights Center Researcher
 
 <!--
