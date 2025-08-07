@@ -2,37 +2,37 @@
 
 ### Arts
 
-Most of my Ideology was built by many things, and most of them are from many types of art. I believe that "We are what we see", so I will list some of the things that I have seen and impacted me.
+My ideology is shaped by many things, primarily various forms of art. I believe that "We are what we see", so I will list some of the things that I have seen and that have impacted me.
 
-You can see the full list in `Logging / Reviews of Arts` session from `INTERESTS.md` file.
+You can see the full list in the `Logging / Reviews of Arts` section from the `INTERESTS.md` file.
 
 ### Spiritual leaders
 
-The people listed below are my spiritual leaders which impact much on my life. I appreciate not only on what they have done, but also what they think. I am still trying to learn more idologies from them.
+The people listed below are my spiritual leaders who have had a great impact on my life. I appreciate not only what they have done, but also what they think. I am still trying to learn more ideologies from them.
 
-- Gwen Shih, as life coach and the best cook, also my mom
-- Gene Hong, as engineer and social media observer, also my dad
-- 李彥寰, as researcher and Facebook KOL
-- Wiwi Kuan, as musicision and life coach
-- Cy Leo 何卓彥, as profesional harmonica player
-- 張懸/安溥, as musicision and singer
-- Wintergatan, as engineer and musicision
-- 聂俊, as game producer and youtuber
-- 小島秀夫, as game producer
-- Corey Wayne, as dating coach
-- Johnny Harris, as journalist
-- 方君竹, as journalist
-- 張志祺, as producer and youtuber
-- Poren Chiang, as open community contributor and comedian
-- 詹雨安, as founder and blogger
-- 李婷婷, as founder and cosplayer
+- Gwen Shih, as a life coach and the best cook, also my mom
+- Gene Hong, as an engineer and social media observer, also my dad
+- 李彥寰, as a researcher and Facebook KOL
+- Wiwi Kuan, as a musician and life coach
+- Cy Leo 何卓彥, as a professional harmonica player
+- 張懸/安溥, as a musician and singer
+- Wintergatan, as an engineer and musician
+- 聂俊, as a game producer and YouTuber
+- 小島秀夫, as a game producer
+- Corey Wayne, as a dating coach
+- Johnny Harris, as a journalist
+- 方君竹, as a journalist
+- 張志祺, as a producer and YouTuber
+- Poren Chiang, as an open community contributor and comedian
+- 詹雨安, as a founder and blogger
+- 李婷婷, as a founder and cosplayer
 
 ### Quotes
 
-These are some quotes that I like, and some of them are also my catch phrases: (Unfinished)
+These are some quotes that I like, and some of them are also my catchphrases: (Unfinished)
 
 - > To be or not to be, That is the question. -- William Shakespeare
-- > 這一切都是命運石之門的選擇 -- from Steins; Gate
+- > 這一切都是命運石之門的選擇 -- from Steins;Gate
 - > 不要問為何沒有人做這個，先承認你就是「沒有人」，因為「沒有人」是萬能的。 -- 零時政府社群經典語錄
 
 ---
