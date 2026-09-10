@@ -27,6 +27,9 @@ Everything about school, work, papers, talks, community roles and music performa
 Live cards rendered by [infovore](https://github.com/skyhong2002/infovore), my self-hosted lifelog. They refresh every hour; click a card for the full platform page.
 
 <div align="center">
+
+<a href="https://infovore.skyhong.tw/now"><img width="70%" alt="Right now — in-progress media, upcoming events and the latest item from each platform" src="https://infovore.skyhong.tw/card/now.webp"></a>
+
 <table>
   <tr>
     <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/statsfm"><img width="100%" alt="stats.fm — recent listening" src="https://infovore.skyhong.tw/card/statsfm.webp"></a></td>
@@ -46,6 +49,8 @@ Live cards rendered by [infovore](https://github.com/skyhong2002/infovore), my s
 </table>
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=338152155619786753)](https://github.com/Zyplos/discord-readme-badge)
+
+[![Services on skyhong.tw](https://status.skyhong.tw/badge.svg)](https://status.skyhong.tw) everything above is self-hosted; this badge is the live health of that stack.
 
 </div>
 
