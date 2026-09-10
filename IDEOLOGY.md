@@ -4,7 +4,7 @@
 
 My ideology is shaped by many things, primarily various forms of art. I believe that "We are what we see", so I will list some of the things that I have seen and that have impacted me.
 
-You can see the full list in the `Logging / Reviews of Arts` section from the `INTERESTS.md` file.
+You can see what I am currently consuming on [infovore](https://infovore.skyhong.tw) and its review platforms linked from the [README](README.md).
 
 ### Spiritual leaders
 
@@ -35,11 +35,3 @@ These are some quotes that I like, and some of them are also my catchphrases: (U
 - > 這一切都是命運石之門的選擇 -- from Steins;Gate
 - > 不要問為何沒有人做這個，先承認你就是「沒有人」，因為「沒有人」是萬能的。 -- 零時政府社群經典語錄
 
----
-
-<div align="center">
-
-More about me:  
-| [ABOUT](https://github.com/skyhong2002/skyhong2002/blob/master/README.md) - [BIOGRAPHY](https://github.com/skyhong2002/skyhong2002/blob/master/BIOGRAPHY.md) - [CV](https://github.com/skyhong2002/skyhong2002/blob/master/CV.md) - [IDEOLOGY](https://github.com/skyhong2002/skyhong2002/blob/master/IDEOLOGY.md) - [INTERESTS](https://github.com/skyhong2002/skyhong2002/blob/master/INTERESTS.md) |
-
-</div>
