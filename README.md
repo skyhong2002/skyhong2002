@@ -24,7 +24,7 @@ Everything about school, work, papers, talks, community roles and music performa
 
 ## `> now`
 
-Live cards rendered by [infovore](https://github.com/skyhong2002/infovore), my self-hosted lifelog. They refresh every hour; click a card for the full platform page.
+Live cards rendered by [infovore](https://github.com/skyhong2002/infovore), my self-hosted lifelog. They refresh every hour; click a card for the full platform page, or browse all 24 in the [gallery](https://infovore.skyhong.tw/cards).
 
 <div align="center">
 
@@ -32,19 +32,20 @@ Live cards rendered by [infovore](https://github.com/skyhong2002/infovore), my s
 
 <table>
   <tr>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/statsfm"><img width="100%" alt="stats.fm — recent listening" src="https://infovore.skyhong.tw/card/statsfm.webp"></a></td>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/backloggd"><img width="100%" alt="Backloggd — recent games" src="https://infovore.skyhong.tw/card/backloggd.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/statsfm"><img width="100%" alt="stats.fm — top albums and artists, last 4 weeks" src="https://infovore.skyhong.tw/card/statsfm.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/backloggd"><img width="100%" alt="Backloggd — recently played games" src="https://infovore.skyhong.tw/card/backloggd.webp"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/kitsu"><img width="100%" alt="Kitsu — anime & manga" src="https://infovore.skyhong.tw/card/kitsu.webp"></a></td>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/simkl"><img width="100%" alt="Simkl — shows & movies" src="https://infovore.skyhong.tw/card/simkl.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/kitsu"><img width="100%" alt="Kitsu — recent anime and manga" src="https://infovore.skyhong.tw/card/kitsu.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/simkl"><img width="100%" alt="Simkl — recently watched TV and movies" src="https://infovore.skyhong.tw/card/simkl.webp"></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/goodreads"><img width="100%" alt="Goodreads — reading" src="https://infovore.skyhong.tw/card/goodreads.webp"></a></td>
-    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/youtube"><img width="100%" alt="YouTube — watching, via urtube" src="https://infovore.skyhong.tw/card/youtube.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/goodreads"><img width="100%" alt="Goodreads — reading now and recently read" src="https://infovore.skyhong.tw/card/goodreads.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/youtube"><img width="100%" alt="YouTube — stable topics and trending keywords, via urtube" src="https://infovore.skyhong.tw/card/youtube-topics.webp"></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://infovore.skyhong.tw/platforms/dayflow"><img width="50%" alt="Dayflow — computer time" src="https://infovore.skyhong.tw/card/dayflow.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/platforms/dayflow"><img width="100%" alt="Dayflow — what I have been working on, from screen activity keywords" src="https://infovore.skyhong.tw/card/dayflow-keywords.webp"></a></td>
+    <td width="50%" valign="top"><a href="https://infovore.skyhong.tw/"><img width="100%" alt="Activity rhythm — seven days of recorded time across platforms" src="https://infovore.skyhong.tw/card/activity-rhythm.webp"></a></td>
   </tr>
 </table>
 
