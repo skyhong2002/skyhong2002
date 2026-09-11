@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="photos/me.jpeg" alt="me" width="240">
+![me](/photos/me.jpeg)
 
 **Human-Computer Interaction · Human-AI Collaboration · Open Data · Open Education · Collective Intelligence**
 
