@@ -24,6 +24,16 @@ Everything about school, work, papers, talks, community roles and music performa
 - Handles everywhere else: `skyhong2002`, `skyhong.tw`, `skychopath`
 - What shaped me: [IDEOLOGY.md](IDEOLOGY.md)
 
+## `> now`
+
+What I have been listening to, playing, watching and working on lately, in one picture. Rendered hourly by [infovore](https://infovore.skyhong.tw).
+
+<div align="center">
+
+[![Word cloud of my recent activity across platforms](https://infovore.skyhong.tw/card/word-cloud-plain.webp)](https://infovore.skyhong.tw)
+
+</div>
+
 ## `> ls ~/projects`
 
 - [infovore](https://github.com/skyhong2002/infovore) — durable personal lifelog: timeline, feeds, status cards, yearly Wrapped, MCP endpoint
