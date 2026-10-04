@@ -34,6 +34,21 @@ What I have been listening to, playing, watching and working on lately, in one p
 
 </div>
 
+## `> top`
+
+How AI agents have been working for me over the last 30 days, across my laptops, homelab and Steam Machine: tokens, agent hours, sessions running at once and the models doing the work. Rendered daily by [ComputAI](https://github.com/Sean-Hawks/computai).
+
+<div align="center">
+
+<a href="https://github.com/Sean-Hawks/computai">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/computai-card-light.svg" />
+    <img src="assets/computai-card.svg" alt="AI ops card: tokens, agent hours, parallel agents, activity, rank and models over the last 30 days" width="100%" />
+  </picture>
+</a>
+
+</div>
+
 ## `> ls ~/projects`
 
 - [infovore](https://github.com/skyhong2002/infovore) — durable personal lifelog: timeline, feeds, status cards, yearly Wrapped, MCP endpoint
