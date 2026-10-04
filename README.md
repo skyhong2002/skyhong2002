@@ -36,11 +36,11 @@ What I have been listening to, playing, watching and working on lately, in one p
 
 ## `> top`
 
-How AI agents have been working for me over the last 30 days, across my laptops, homelab and Steam Machine: tokens, agent hours, sessions running at once and the models doing the work. Counted by [ComputAI](https://github.com/Sean-Hawks/computai), rendered hourly by [infovore](https://infovore.skyhong.tw/cards#ai-agents).
+How AI agents have been working for me over the last 30 days, across my laptops, homelab and Steam Machine: tokens, agent hours, sessions running at once and the models doing the work. Counted by [ComputAI](https://github.com/Sean-Hawks/computai), rendered hourly by [infovore](https://infovore.skyhong.tw/platforms/computai).
 
 <div align="center">
 
-<a href="https://infovore.skyhong.tw/cards#ai-agents">
+<a href="https://infovore.skyhong.tw/platforms/computai">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://infovore.skyhong.tw/card/ai-agents-light.svg" />
     <img src="https://infovore.skyhong.tw/card/ai-agents.svg" alt="AI agents over the last 30 days: tokens, agent hours, sessions at once, prompt cache share, tokens per day and model share" />
